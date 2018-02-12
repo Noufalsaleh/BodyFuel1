@@ -12,6 +12,18 @@
 		1E0C5A6A2030EBE200154334 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A682030EBE100154334 /* Main.storyboard */; };
 		1E0C5A6C2030EBE200154334 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A6B2030EBE200154334 /* Assets.xcassets */; };
 		1E0C5A6F2030EBE200154334 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A6D2030EBE200154334 /* LaunchScreen.storyboard */; };
+		1E0C5A772030EC6900154334 /* BFlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A762030EC6900154334 /* BFlogo.png */; };
+		1E0C5A7B2030EC7200154334 /* steps.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A782030EC7200154334 /* steps.png */; };
+		1E0C5A7C2030EC7200154334 /* ex.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A792030EC7200154334 /* ex.png */; };
+		1E0C5A7D2030EC7200154334 /* water.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A7A2030EC7200154334 /* water.jpg */; };
+		1E0C5A7F2030EC7700154334 /* BMi.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A7E2030EC7700154334 /* BMi.gif */; };
+		1E0C5A812030ECBF00154334 /* BFlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E0C5A802030ECBF00154334 /* BFlogo.png */; };
+		1E0C5A832030EDF500154334 /* RegViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C5A822030EDF500154334 /* RegViewController.swift */; };
+		1E0C5A852030F60D00154334 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C5A842030F60D00154334 /* HomeViewController.swift */; };
+		1E0C5A872030F7EC00154334 /* StepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C5A862030F7EC00154334 /* StepViewController.swift */; };
+		1E0C5A892030F84200154334 /* ExViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C5A882030F84200154334 /* ExViewController.swift */; };
+		1E0C5A8B2030F85900154334 /* waterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C5A8A2030F85900154334 /* waterViewController.swift */; };
+		1E0C5A8D2030F87C00154334 /* BmiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0C5A8C2030F87C00154334 /* BmiViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		1E0C5A6B2030EBE200154334 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E0C5A6E2030EBE200154334 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E0C5A702030EBE200154334 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E0C5A762030EC6900154334 /* BFlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BFlogo.png; sourceTree = "<group>"; };
+		1E0C5A782030EC7200154334 /* steps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = steps.png; sourceTree = "<group>"; };
+		1E0C5A792030EC7200154334 /* ex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ex.png; sourceTree = "<group>"; };
+		1E0C5A7A2030EC7200154334 /* water.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = water.jpg; sourceTree = "<group>"; };
+		1E0C5A7E2030EC7700154334 /* BMi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = BMi.gif; sourceTree = "<group>"; };
+		1E0C5A802030ECBF00154334 /* BFlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BFlogo.png; path = ../../BFlogo.png; sourceTree = "<group>"; };
+		1E0C5A822030EDF500154334 /* RegViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegViewController.swift; sourceTree = "<group>"; };
+		1E0C5A842030F60D00154334 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		1E0C5A862030F7EC00154334 /* StepViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepViewController.swift; sourceTree = "<group>"; };
+		1E0C5A882030F84200154334 /* ExViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExViewController.swift; sourceTree = "<group>"; };
+		1E0C5A8A2030F85900154334 /* waterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = waterViewController.swift; sourceTree = "<group>"; };
+		1E0C5A8C2030F87C00154334 /* BmiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmiViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +62,7 @@
 		1E0C5A582030EBE100154334 = {
 			isa = PBXGroup;
 			children = (
+				1E0C5A6B2030EBE200154334 /* Assets.xcassets */,
 				1E0C5A632030EBE100154334 /* BodyFuel */,
 				1E0C5A622030EBE100154334 /* Products */,
 			);
@@ -56,9 +81,20 @@
 			children = (
 				1E0C5A642030EBE100154334 /* AppDelegate.swift */,
 				1E0C5A662030EBE100154334 /* ViewController.swift */,
+				1E0C5A822030EDF500154334 /* RegViewController.swift */,
+				1E0C5A842030F60D00154334 /* HomeViewController.swift */,
 				1E0C5A682030EBE100154334 /* Main.storyboard */,
-				1E0C5A6B2030EBE200154334 /* Assets.xcassets */,
+				1E0C5A8C2030F87C00154334 /* BmiViewController.swift */,
+				1E0C5A8A2030F85900154334 /* waterViewController.swift */,
+				1E0C5A882030F84200154334 /* ExViewController.swift */,
+				1E0C5A862030F7EC00154334 /* StepViewController.swift */,
 				1E0C5A6D2030EBE200154334 /* LaunchScreen.storyboard */,
+				1E0C5A762030EC6900154334 /* BFlogo.png */,
+				1E0C5A802030ECBF00154334 /* BFlogo.png */,
+				1E0C5A792030EC7200154334 /* ex.png */,
+				1E0C5A7E2030EC7700154334 /* BMi.gif */,
+				1E0C5A782030EC7200154334 /* steps.png */,
+				1E0C5A7A2030EC7200154334 /* water.jpg */,
 				1E0C5A702030EBE200154334 /* Info.plist */,
 			);
 			path = BodyFuel;
@@ -123,9 +159,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E0C5A812030ECBF00154334 /* BFlogo.png in Resources */,
+				1E0C5A7C2030EC7200154334 /* ex.png in Resources */,
 				1E0C5A6F2030EBE200154334 /* LaunchScreen.storyboard in Resources */,
 				1E0C5A6C2030EBE200154334 /* Assets.xcassets in Resources */,
+				1E0C5A7F2030EC7700154334 /* BMi.gif in Resources */,
+				1E0C5A772030EC6900154334 /* BFlogo.png in Resources */,
 				1E0C5A6A2030EBE200154334 /* Main.storyboard in Resources */,
+				1E0C5A7B2030EC7200154334 /* steps.png in Resources */,
+				1E0C5A7D2030EC7200154334 /* water.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +179,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E0C5A672030EBE100154334 /* ViewController.swift in Sources */,
+				1E0C5A8D2030F87C00154334 /* BmiViewController.swift in Sources */,
+				1E0C5A832030EDF500154334 /* RegViewController.swift in Sources */,
+				1E0C5A872030F7EC00154334 /* StepViewController.swift in Sources */,
 				1E0C5A652030EBE100154334 /* AppDelegate.swift in Sources */,
+				1E0C5A852030F60D00154334 /* HomeViewController.swift in Sources */,
+				1E0C5A8B2030F85900154334 /* waterViewController.swift in Sources */,
+				1E0C5A892030F84200154334 /* ExViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
